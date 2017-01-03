@@ -1,0 +1,27 @@
+{
+  "name": "sm-2",
+  "version": "1.0.0",
+  "description": "Spaced repetition algorithm in ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cnnrhill/sm-2.git"
+  },
+  "keywords": [
+    "spaced",
+    "repetition",
+    "learning",
+    "algorithm",
+    "sm-2",
+    "sm2"
+  ],
+  "author": "cnnrhill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnnrhill/sm-2/issues"
+  },
+  "homepage": "https://github.com/cnnrhill/sm-2#readme"
+}
