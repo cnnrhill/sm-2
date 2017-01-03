@@ -1,4 +1,4 @@
-Implementation of SM-2 in JavaScript. 
+Implementation of SM-2 in ES6. 
 
 SM-2 is a simple spaced repetition algorithm. It calculates the number of days to wait before reviewing a piece of information based on how easily the the information was remembered today.
 
