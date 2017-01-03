@@ -1,4 +1,6 @@
-The SM-2 algorithm is a simple spaced repetition algorithm. It calculates the number of days to wait before reviewing a piece of information based on how easily the the information was remembered today.
+Implementation of SM-2 in JavaScript. 
+
+SM-2 is a simple spaced repetition algorithm. It calculates the number of days to wait before reviewing a piece of information based on how easily the the information was remembered today.
 
 # Links
 
